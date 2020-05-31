@@ -65,35 +65,35 @@ Train Loss: 3.12 RMSE | Test Loss: 19.21 RMSE
 
 Train Loss: 0.87 RMSE | Test Loss: 6.39 RMSE
 
-![](google.jpg)
+![](Results/google.jpg)
 
 
 ### Amazon
 
 Train Score: 5.01 RMSE | Test Score: 7.12 RMSE
 
-![](amazon.jpg)
+![](Results/amazon.jpg)
 
 
 ### Microsoft
 
 Train Score: 0.42 RMSE | Test Score: 0.89 RMSE
 
-![](microsoft.jpg)
+![](Results/microsoft.jpg)
 
 
 ### Netflix
 
 Train Score: 0.81 RMSE | Test Score: 1.44 RMSE
 
-![](netflix.jpg)
+![](Results/netflix.jpg)
 
 
 ### Nvidia
 
 Train Score: 1.02 RMSE | Test Score: 1.45 RMSE
 
-![](nvidia.jpg)
+![](Results/nvidia.jpg)
 
 
 
