@@ -58,7 +58,7 @@ jupyter notebook finding_donors.ipynb
 
 Train Loss: 3.12 RMSE | Test Loss: 19.21 RMSE
 
-![](google.jpg)
+![](Results/google.jpg)
 
 
 ### Apple
